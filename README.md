@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aiguo112&&show_icons=true&theme=dark" alt="aiguo112" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aiguo112&&show_icons=true&locale=en" alt="aiguo112" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aiguo112&&show_icons=true&theme=dark&locale=en" alt="aiguo112" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aiguo112&" alt="aiguo112" /></p>

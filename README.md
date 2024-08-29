@@ -11,11 +11,9 @@
 
 - 👯 I’m looking to collaborate on **360-Degree Style Transfer**
 
-- 🤝 I’m looking for help with **360-Degree Depth Estimation**
-
 - 💬 Ask me about **Deep Learning Techniques 360-Degree Videos**
 
-- 📫 How to reach me **arbi@mail.ustc.edu.cn**
+- 📫 How to reach me **arbi at the rate of mail.ustc.edu.cn**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arbiarbii/](https://www.linkedin.com/in/arbiarbii/)
 

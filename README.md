@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **arbi at the rate of mail.ustc.edu.cn**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arbiarbii/](https://www.linkedin.com/in/arbiarbii/)
+
 
 - ⚡ Fun fact **I believe that pixels have personalities – each image tells a unique story waiting to be unveiled by the keen eye of a curious coder.**
 

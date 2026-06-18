@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aiguo112&label=Profile%20views&color=0e75b6&style=flat" alt="aiguo112" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aiguo112" alt="aiguo112" /></a> </p>
-
 <img align="right" alt="coding" width="400" src="https://github.com/aiguo112/aiguo112/blob/main/AR_VR.gif">
 
 - 🔭 I'm currently working on **Panoramic Vision & Remote Sensing Segmentation**
@@ -93,4 +91,11 @@ Extends crowd counting to 360° panoramic domains. Proposes latitude-aware densi
 
 ---
 
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aiguo112&&show_icons=true&theme=dark" alt="aiguo112" /></p>
+## 📊 GitHub Analytics
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aiguo112&theme=tokyo-night&radius=16)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiguo112&show_icons=true&theme=tokyo-night&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=aiguo112&theme=tokyo-night&layout=compact&hide_border=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=aiguo112&theme=tokyo-night&hide_border=true)

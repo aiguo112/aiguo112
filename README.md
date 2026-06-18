@@ -28,49 +28,49 @@ I'm focused on **equirectangular projection (ERP) segmentation** and **remote se
 ### 🌊 **PanoDive360: Underwater 360° Semantic Segmentation**
 Introduces a novel underwater ERP dataset with enhanced attention mechanisms for multiclass segmentation. Maintains spatial coherence across the panoramic domain while handling extreme distortions near poles.
 
-![PanoDive360 Qualitative Results](./images/Qualitative1.png)
+![PanoDive360 Underwater 360° Semantic Segmentation](./images/PanoDive360%20Underwater%20360°%20Semantic%20Segmentation.png)
 
 ---
 
 ### 🗺️ **ERP-Transformer: Outdoor Panoramic Segmentation**
 Adapts SegFormer backbone with squeeze-and-excitation channel recalibration for outdoor scenes. Visualizes structural features and semantic attention maps across 360° imagery.
 
-![ERP-Transformer Features & Attention](./images/ch4_feature_vis_scene2.png)
+![ERP-Transformer Outdoor Panoramic Segmentation](./images/ERP-Transformer%20Outdoor%20Panoramic%20Segmentation.png)
 
 ---
 
 ### 👥 **LatentPano: 360° Scene Classification**
 Addresses panoramic scene classification across indoor/outdoor/commercial environments. Proposes latitude-aware spatial transformation to normalize ERP distortions for robust multi-category predictions.
 
-![LatentPano Scene Classification Results](./images/fig_qualitative.png)
+![LatentPano 360° Scene Classification](./images/LatentPano%20360°%20Scene%20Classification.png)
 
 ---
 
 ### 🛰️ **SA-RSRefSeg: Scale-Aware Referring Remote Sensing**
 Segments remote sensing objects described in natural language. Introduces scale-aware attention prompting for high-resolution aerial imagery with objects at vastly different spatial scales.
 
-![SA-RSRefSeg Remote Sensing Segmentation](./images/Figure1.png)
+![SA-RSRefSeg Scale-Aware Referring Remote Sensing](./images/SA-RSRefSeg%20Scale-Aware%20Referring%20Remote%20Sensing.png)
 
 ---
 
 ### 🚁 **Detect-Then-Segment: Space Target Perception**
 Unified two-stage pipeline for detecting and segmenting non-cooperative space objects (satellites, spacecraft). Compares single-stage baseline against attention-driven detection-then-segment approach.
 
-![Space Target Detection & Segmentation](./images/Figure9.jpg)
+![Detect-Then-Segment Space Target Perception](./images/Detect-Then-Segment%20Space%20Target%20Perception.png)
 
 ---
 
 ### 🌍 **Text-Steered Modality Routing: SAR-Optical Fusion**
 Annotation-free fusion of Synthetic Aperture Radar (SAR) and optical RGB for land-cover segmentation. Language models guide modality emphasis per region, enabling zero-shot cross-modal learning.
 
-![SAR-Optical Segmentation Results](./images/Figure2.png)
+![Text-Steered Modality Routing SAR-Optical Fusion](./images/Text-Steered%20Modality%20Routing%20SAR-Optical%20Fusion.png)
 
 ---
 
 ### 🎯 **Beyond Perspective: Panoramic Crowd Counting**
 Extends crowd counting to 360° panoramic domains. Proposes latitude-aware density maps to account for ERP distortion in immersive video surveillance scenarios.
 
-![Panoramic Crowd Counting](./images/korea_samples_combined.png)
+![Beyond Perspective Panoramic Crowd Counting](./images/Beyond%20Perspective%20Panoramic%20Crowd%20Counting.jpg)
 
 ---
 

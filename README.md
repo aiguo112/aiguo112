@@ -56,7 +56,7 @@ Segments remote sensing objects described in natural language. Introduces scale-
 ### 🚁 **Detect-Then-Segment: Space Target Perception**
 Unified two-stage pipeline for detecting and segmenting non-cooperative space objects (satellites, spacecraft). Compares single-stage baseline against attention-driven detection-then-segment approach.
 
-![Space Target Detection & Segmentation](./images/Figure9.jpg)
+![Space Target Detection & Segmentation]()
 
 ---
 
@@ -70,7 +70,7 @@ Annotation-free fusion of Synthetic Aperture Radar (SAR) and optical RGB for lan
 ### 🎯 **Beyond Perspective: Panoramic Crowd Counting**
 Extends crowd counting to 360° panoramic domains. Proposes latitude-aware density maps to account for ERP distortion in immersive video surveillance scenarios.
 
-![Panoramic Crowd Counting](./images/korea_samples_combined.png)
+![Panoramic Crowd Counting](./images/Figure9.jpg)
 
 ---
 

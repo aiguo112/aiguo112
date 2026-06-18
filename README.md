@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on **Panoramic Vision & Remote Sensing Segmentation**
 
-- 🌱 I'm currently learning **汉语, 广东话, IELTS**
+- 🌱 I'm currently learning **汉语, 广东话**
 
 - 👯 I'm looking to collaborate on **360° Style Transfer & Panoramic Vision**
 

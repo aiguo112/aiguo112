@@ -82,6 +82,12 @@ Latitude-aware density maps for 360° ERP crowd counting.
 
 ---
 
+## Awards
+
+- **Best Presenter Award** — 3rd IEEE International Conference on Advances in Machine Intelligence and Cybersecurity Technologies (AMICT 2026), for “[HemaFormer: Report-Supervised Multi-Task Learning for Anemia and RBC Morphology on AneRBC](https://github.com/aiguo112/HemaFormer)” (November 2026) · [announcement](https://www.linkedin.com/feed/update/urn:li:activity:7531182826487091200/)
+
+---
+
 ## Featured code
 
 | Repo | Topic |
